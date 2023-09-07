@@ -1,7 +1,6 @@
 import { Box, Container, Flex, Image, Link } from '@chakra-ui/react';
 import React from 'react';
 import logo from '../assets/logo.png';
-import bg from '../assets/orig.jpg';
 
 const Header = () => {
   return (
