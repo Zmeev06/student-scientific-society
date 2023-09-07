@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/student-scientific-society/static/css/main.664caa95.css",
+    "main.js": "/student-scientific-society/static/js/main.320e1073.js",
+    "static/media/orig.jpg": "/student-scientific-society/static/media/orig.0165352b8dc0eaaa5718.jpg",
+    "static/media/logo.png": "/student-scientific-society/static/media/logo.6263f098d1d059e21b38.png",
+    "static/media/Ruslan.jpg": "/student-scientific-society/static/media/Ruslan.a57d5d51ad8bc872eb27.jpg",
+    "index.html": "/student-scientific-society/index.html",
+    "main.664caa95.css.map": "/student-scientific-society/static/css/main.664caa95.css.map",
+    "main.320e1073.js.map": "/student-scientific-society/static/js/main.320e1073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.664caa95.css",
+    "static/js/main.320e1073.js"
+  ]
+}
